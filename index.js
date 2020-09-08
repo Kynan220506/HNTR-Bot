@@ -66,4 +66,4 @@ bot.on('message', (message)=>{
     }
 });
 
-bot.login('NzQyNDEwMTQyMDQ1MTc1ODE4.XzFtUw.O3h-_l45E5ws5m4JMBL-pCnYGO0');
+bot.login('NzQyNDEwMTQyMDQ1MTc1ODE4.XzFtUw.84vXmdHZVelURbA414ji9Kee0oE');
